@@ -2,4 +2,7 @@
 VHDL image equalizer
 
 
-public version of project_reti_logiche
+Public version of project_reti_logiche
+
+Simple image equalizer written in VHDL using Xilinx Vivado suite.
+All details into .ppt file
